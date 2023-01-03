@@ -2,9 +2,8 @@
 電腦視覺 HW Hybrid Image <br>
 ## Result
 
-![3_dog](https://user-images.githubusercontent.com/49235533/210388930-581705c5-cf1b-4fdd-a12a-fddb3627d5cc.jpg)
-![3_cat](https://user-images.githubusercontent.com/49235533/210388923-72b36d4b-26d3-4428-91ef-abb427615f9a.jpg)
-![output](https://user-images.githubusercontent.com/49235533/210388431-b7ec797c-58c2-4df4-8b8d-9c3d1e219e0f.jpg)
+![58286](https://user-images.githubusercontent.com/49235533/210389880-72e61c79-ed62-48ee-8620-013ff2edd867.png)
+![572](https://user-images.githubusercontent.com/49235533/210389613-7c9777eb-8daf-453d-87c4-60bf2730e135.png)
 
 ## Install requirements
 ```C
